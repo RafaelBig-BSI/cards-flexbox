@@ -1,0 +1,94 @@
+body {
+    padding-bottom: 500px;
+    font-family: Helvetica;
+    background: url("/images/body-bg.jpg");
+}
+
+img {
+    width: 400px;
+    border: 2px solid #000;
+    border-radius: 5px;
+    height: 250px;
+}
+
+.container {
+    padding: 20px;
+    max-width: 2000px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card-produto {
+    /*border: 1px solid red;*/
+    background-color: #d8d2d2;
+    border: 2px solid #000;
+    border-radius: 5px;
+    width: 400px;
+    height: 500px;
+    margin-bottom: 50px;
+}
+
+.card-produto h3,
+.card-produto p,
+.card-produto small,
+.card-produto span {
+    margin-left: 10px;
+}
+
+.card-info p {
+    text-align: justify;
+    padding: 10px;
+}
+
+.card-preco {
+    margin: 10px;
+}
+
+.card-preco span {
+    font-weight: bold;
+}
+
+
+.card-icon img {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    margin-left: 350px;
+}
+
+.salgado {
+    background-color: rgb(168, 9, 9);
+    border-radius: 4px;
+    color: #fff;
+    padding: 5px;
+}
+
+.lanches {
+    background-color: rgb(5, 92, 5);
+    border-radius: 4px;
+    color: #fff;
+    padding: 5px;
+}
+
+.sobremesas {
+    background-color: rgb(107, 2, 107);
+    border-radius: 4px;
+    color: #fff;
+    padding: 5px;
+}
+
+.massas {
+    background-color: rgb(192, 138, 37);
+    border-radius: 4px;
+    color: #fff;
+    padding: 5px;
+}
+
+.bebidas {
+    background-color: rgb(19, 19, 102);
+    border-radius: 4px;
+    color: #fff;
+    padding: 5px;
+}
