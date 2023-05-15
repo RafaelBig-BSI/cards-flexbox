@@ -1,5 +1,5 @@
 # <img height="40" src="https://user-images.githubusercontent.com/84249945/219458363-0df46081-95bd-4878-a828-541457541cbd.png"/> Sobre
-Projeto simples de estudo de Flexbox CSS.
+Projeto simples de estudo de Flexbox, feito com HTML/CSS.
 
 # <img height="40" src="https://user-images.githubusercontent.com/84249945/219701953-d9aadf6c-065a-4176-8c21-3b13c497f752.png"/> Como utilizar
 Apenas faça o download do projeto e abre o arquivo <b>index.html</b> no seu navegador.
